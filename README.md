@@ -27,6 +27,7 @@
 
 ## Blog Posts
 
+- [When Zero Cost Abstractions Aren't Zero Cost](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html)
 - [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/)
 - [Let's talk about this async](https://conradludgate.com/posts/async)
 - [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)

@@ -24,6 +24,7 @@
 ## Youtube 
 
 - [Jon Gjengset](https://www.youtube.com/c/JonGjengset)
+- [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw)
 
 ## Blog Posts
 

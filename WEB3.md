@@ -1,4 +1,4 @@
-<h1 align="center">WEB3 Knowledge Base</h1>
+<h1 align="center">Web3 Knowledge Base</h1>
 
 # Content
 
